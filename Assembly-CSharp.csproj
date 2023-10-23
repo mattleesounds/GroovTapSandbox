@@ -69,6 +69,7 @@
     <Compile Include="Assets/AudioScript1.cs" />
     <Compile Include="Assets/TutorialInfo/Scripts/Readme.cs" />
     <Compile Include="Assets/TapScript.cs" />
+    <Compile Include="Assets/Orbit.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
